@@ -2,20 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="330c9c62-d109-4b4a-8994-be4f5907849c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gamelist.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grouplist.html" />
-      <change type="DELETED" beforePath="E:\PHPnow\htdocs\css\jqm-docs.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pathMaker.html" afterPath="$PROJECT_DIR$/pathMaker.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/player.html" afterPath="$PROJECT_DIR$/player.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.html" afterPath="$PROJECT_DIR$/register.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/waiting.html" afterPath="$PROJECT_DIR$/waiting.html" />
+      <change type="DELETED" beforePath="E:\PHPnow\htdocs\gamelist.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\PHPnow\htdocs\grouplist.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\PHPnow\htdocs\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\PHPnow\htdocs\pathMaker.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\PHPnow\htdocs\player.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\PHPnow\htdocs\register.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\PHPnow\htdocs\waiting.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\PHPnow\htdocs\winner.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="eggHunter.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1371808116502" ignored="false" />
+    <file path="/Dummy.txt" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1372061195949" ignored="false" />
     <file path="/index.html" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1371811036571" ignored="false" />
     <file path="/register.html" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1371741565753" ignored="false" />
     <file path="/pathMaker.html" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1371811297974" ignored="false" />
@@ -23,6 +22,19 @@
     <file path="/waiting.html" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1371816156888" ignored="false" />
     <file path="/gamelist.html" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1371884992784" ignored="false" />
     <file path="/grouplist.html" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1371816550123" ignored="false" />
+    <file path="/index.php" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1372051218995" ignored="false" />
+    <file path="/waiting.php" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1372073140386" ignored="false" />
+    <file path="/header.php" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1371996303279" ignored="false" />
+    <file path="/gamelist.php" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1372086993508" ignored="false" />
+    <file path="/grouplist.php" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1371997181472" ignored="false" />
+    <file path="/pathMaker.php" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1372064732071" ignored="false" />
+    <file path="/register.php" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1372051473454" ignored="false" />
+    <file path="/winner.php" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1372087588491" ignored="false" />
+    <file path="/player.php" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1372087740253" ignored="false" />
+    <file path="/pathMaker.js" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1372087466208" ignored="false" />
+    <file path="/register.js" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1372041177230" ignored="false" />
+    <file path="/player.js" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1372087714115" ignored="false" />
+    <file path="/ajaxServer.php" changelist="330c9c62-d109-4b4a-8994-be4f5907849c" time="1372087366383" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,84 +54,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="player.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/player.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="3" selection-start="0" selection-end="1582" vertical-scroll-proportion="-3.107143">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#a#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="register.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/register.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="571" selection-end="571" vertical-scroll-proportion="-3.107143">
+            <state line="27" column="54" selection-start="864" selection-end="864" vertical-scroll-proportion="0.8244576">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pathMaker.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pathMaker.html">
+      <file leaf-file-name="register.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/register.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="101" selection-start="919" selection-end="919" vertical-scroll-proportion="-6.107143">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="player.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/player.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="26" selection-start="1157" selection-end="1168" vertical-scroll-proportion="0.7780172">
-              <folding>
-                <element signature="n#style#0;n#span#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gamelist.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gamelist.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="55" selection-start="802" selection-end="802" vertical-scroll-proportion="-5.821429">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="grouplist.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grouplist.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="33" selection-start="841" selection-end="841" vertical-scroll-proportion="-12.285714">
+            <state line="19" column="27" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="waiting.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/waiting.html">
+      <file leaf-file-name="waiting.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/waiting.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="36" selection-start="864" selection-end="864" vertical-scroll-proportion="-4.0">
+            <state line="61" column="12" selection-start="2047" selection-end="2047" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="winner.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/winner.html">
+      <file leaf-file-name="winner.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/winner.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="56" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="33" selection-start="0" selection-end="2229" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pathMaker.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pathMaker.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pathMaker.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/pathMaker.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="60" column="41" selection-start="1435" selection-end="1435" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ajaxServer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ajaxServer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="20" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="player.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/player.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="69" selection-start="1726" selection-end="1726" vertical-scroll-proportion="-6.6">
               <folding />
             </state>
           </provider>
@@ -143,21 +162,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/js/jqm-docs.js" />
-        <option value="$PROJECT_DIR$/dialog/pathmaker.html" />
-        <option value="$PROJECT_DIR$/register.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/pathMaker.html" />
-        <option value="$PROJECT_DIR$/waiting.html" />
-        <option value="$PROJECT_DIR$/grouplist.html" />
-        <option value="$PROJECT_DIR$/gamelist.html" />
-        <option value="$PROJECT_DIR$/player.html" />
+        <option value="$PROJECT_DIR$/grouplist.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/js/localstorage.js" />
+        <option value="$PROJECT_DIR$/js/register.js" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/pathMaker.php" />
+        <option value="$PROJECT_DIR$/waiting.php" />
+        <option value="$PROJECT_DIR$/kml.json" />
+        <option value="$PROJECT_DIR$/js/gamelist.js" />
+        <option value="$PROJECT_DIR$/gamelist.php" />
+        <option value="$PROJECT_DIR$/register.php" />
+        <option value="$PROJECT_DIR$/ajaxServer.php" />
+        <option value="$PROJECT_DIR$/js/pathMaker.js" />
+        <option value="$PROJECT_DIR$/winner.php" />
+        <option value="$PROJECT_DIR$/js/player.js" />
+        <option value="$PROJECT_DIR$/player.php" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="width" value="1366" />
-    <option name="height" value="738" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -211,7 +237,7 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="editor.preferences.folding" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
@@ -273,11 +299,15 @@
       <created>1371711960095</created>
       <updated>1371711960095</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add google map with geolocation">
+      <created>1371972988212</created>
+      <updated>1371972988212</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="738" extended-state="0" />
+    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -341,7 +371,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic UI" />
+    <option name="LAST_COMMIT_MESSAGE" value="add google map with geolocation" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -356,140 +386,112 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="basic UI" />
+    <MESSAGE value="add google map with geolocation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/winner.html">
+    <entry file="file://$PROJECT_DIR$/js/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kml.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/gamelist.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/gamelist.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="34" selection-start="1408" selection-end="1408" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#a#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="23" selection-start="1333" selection-end="1333" vertical-scroll-proportion="0.0">
+        <state line="10" column="45" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pathMaker.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="74" selection-start="3734" selection-end="3734" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/player.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="27" selection-start="1146" selection-end="1146" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#style#0;n#span#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/waiting.html">
+    <entry file="file://$PROJECT_DIR$/grouplist.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/winner.html">
+    <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/winner.html">
+    <entry file="file://$PROJECT_DIR$/waiting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="12" selection-start="2047" selection-end="2047" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="27" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pathMaker.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dialog/pathmaker.html">
+    <entry file="file://$PROJECT_DIR$/ajaxServer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+        <state line="7" column="20" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/register.html">
+    <entry file="file://$PROJECT_DIR$/js/pathMaker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="571" selection-end="571" vertical-scroll-proportion="-3.107143">
+        <state line="60" column="41" selection-start="1435" selection-end="1435" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="3" selection-start="0" selection-end="1582" vertical-scroll-proportion="-3.107143">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#a#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grouplist.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="33" selection-start="841" selection-end="841" vertical-scroll-proportion="-12.285714">
+        <state line="30" column="33" selection-start="0" selection-end="2229" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pathMaker.html">
+    <entry file="file://$PROJECT_DIR$/winner.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="101" selection-start="919" selection-end="919" vertical-scroll-proportion="-6.107143">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/waiting.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="36" selection-start="864" selection-end="864" vertical-scroll-proportion="-4.0">
+        <state line="13" column="56" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gamelist.html">
+    <entry file="file://$PROJECT_DIR$/js/player.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="55" selection-start="802" selection-end="802" vertical-scroll-proportion="-5.821429">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="59" column="69" selection-start="1726" selection-end="1726" vertical-scroll-proportion="-6.6">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/player.html">
+    <entry file="file://$PROJECT_DIR$/player.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="26" selection-start="1157" selection-end="1168" vertical-scroll-proportion="0.7780172">
-          <folding>
-            <element signature="n#style#0;n#span#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="27" column="54" selection-start="864" selection-end="864" vertical-scroll-proportion="0.8244576">
+          <folding />
         </state>
       </provider>
     </entry>
